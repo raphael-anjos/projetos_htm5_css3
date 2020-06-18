@@ -1,0 +1,20 @@
+*{
+	font-family:Arial;
+}
+body{
+	margin:0;
+	background-color: #EEEEEE;
+
+}
+
+.exemplo{
+	width:500px;
+	height:200px;
+	background:blue;
+	background:linear-gradient(40deg,white, blue); /*  Padrão */
+	background:-moz-linear-gradient(white, blue);
+	background:-o-linear-gradient(white, blue);
+	background:-webkit-linear-gradient(white, blue);
+	
+	
+}

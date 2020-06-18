@@ -1,0 +1,23 @@
+*{
+	font-family:Arial;
+}
+body{
+	margin:0;
+	background-color: #EEEEEE;
+
+}
+
+form{
+	background-color:#CCC;
+	text-align:center;
+	width:300px;
+	height:150px;
+	margin:auto;
+	padding:10px;
+	margin-top:30px;
+}
+
+input{
+	font-size:13px;
+	padding:5px;
+}

@@ -1,0 +1,90 @@
+*{
+	font-family:Arial;
+}
+body{
+	margin:0;
+	padding:0;
+	background-color:#efefeb;
+}
+
+.topo {
+	height:50px;
+	background-color:#035092;
+	
+}
+
+.topointerior {
+	width:1000px;
+	margin:auto;
+	color:#FFFFFF;
+}
+
+.logo {
+	float:left;
+	font-size:24;
+	line-height:50px;
+	color:#e7f903;
+}
+
+.menu {
+	float:right;
+	
+}
+
+.menu ul,
+.menu li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.menu li {
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	line-height:50px;
+	font-size:14px;
+	cursor:pointer;
+	color:#e7f903;
+}
+
+.menu li:hover{
+	background-color:#3480c1;
+}
+
+.banner{
+	height:300px;
+	width:1000px;
+	margin:auto;
+}
+
+
+
+.conteudointerno{
+	width:1000px;
+	margin:auto;
+	
+	
+}
+
+.produtos{
+	font-size:20px;
+	height:90px;
+	text-align:center;
+	line-height:90px;
+	
+}
+
+.fotos img{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.rodape{
+	background-color:#035092;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	color:#FFFFFF;
+	margin-top:40px;
+}
